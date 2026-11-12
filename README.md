@@ -16,7 +16,7 @@ Mises à jour automatiques dans l'appli, ou avec [Obtainium](https://github.com/
 
 ## Essai et licence / Trial and licence
 
-- **14 jours d'essai gratuit**, toutes les fonctions Pro. *14-day free trial, all Pro features.*
+- **3 jours d'essai gratuit**, toutes les fonctions Pro. *3-day free trial, all Pro features.*
 - Ensuite : clé de licence (achat unique, 1 clé = 3 tablettes) → **[becasseau.gumroad.com/l/walldock-pro](https://becasseau.gumroad.com/l/walldock-pro)**
   *Then a licence key (one-time purchase, 1 key = 3 tablets).*
 - Réglages → **Licence WallDock Pro** → coller la clé → **Activer**. *Settings → WallDock Pro licence → paste the key → Activate.*
