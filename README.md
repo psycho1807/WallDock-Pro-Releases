@@ -22,6 +22,18 @@ Mises à jour automatiques dans l'appli, ou avec [Obtainium](https://github.com/
 - Réglages → **Licence WallDock Pro** → coller la clé → **Activer**. *Settings → WallDock Pro licence → paste the key → Activate.*
 - Sans licence, l'appli continue de fonctionner comme la version gratuite. *Without a licence, the app keeps working like the free version.*
 
+## Nouveautés WallDock Pro 0.18.0
+
+![WallDock Pro — couverture](cover.png)
+
+**SmartFlow Daily** : quatre ambiances automatiques selon l'heure (matin, jour, soirée, nuit), avec météo et prévisions, événements du calendrier, état de la maison, sécurité et trafic, selon les entités disponibles dans Home Assistant.
+
+**Jarvis** : reconnaissance faciale sur la tablette pour des salutations personnalisées, animation de l'assistant et réglages de voix française (voix unifiée expérimentale et facultative, avec repli sur l'audio Home Assistant).
+
+**Compatibilité** : sélection manuelle ou détection des entités météo, calendrier, alarme et température, y compris pour les installations qui ne disposent pas de tous ces capteurs.
+
+*Les visuels présents sur cette page sont illustratifs. Les fonctionnalités dépendent des autorisations Android et de la configuration Home Assistant.*
+
 ## Fonctions Pro / Pro features
 
 - Mots de réveil au choix (Hey Jarvis, Okay Nabu, Alexa, Hey Mycroft…) et mot personnalisé — *wake word choice and custom wake word*
