@@ -34,6 +34,14 @@ Mises à jour automatiques dans l'appli, ou avec [Obtainium](https://github.com/
 
 *Les visuels présents sur cette page sont illustratifs. Les fonctionnalités dépendent des autorisations Android et de la configuration Home Assistant.*
 
+### Jarvis sur WallDock Pro
+
+Voici une capture de l'interface Jarvis intégrée à WallDock Pro :
+
+![Capture de Jarvis dans WallDock Pro](images/jarvis.jpg)
+
+*Capture d'interface illustrative. L'affichage peut varier selon la tablette et les réglages.*
+
 ## Fonctions Pro / Pro features
 
 - Mots de réveil au choix (Hey Jarvis, Okay Nabu, Alexa, Hey Mycroft…) et mot personnalisé — *wake word choice and custom wake word*
