@@ -22,21 +22,22 @@ Mises à jour automatiques dans l'appli, ou avec [Obtainium](https://github.com/
 - Réglages → **Licence WallDock Pro** → coller la clé → **Activer**. *Settings → WallDock Pro licence → paste the key → Activate.*
 - Sans licence, l'appli continue de fonctionner comme la version gratuite. *Without a licence, the app keeps working like the free version.*
 
-## Nouveautés WallDock Pro 0.18.3 — Alfred et Gotham élégant
+## Nouveautés WallDock Pro 0.18.4 — Gotham intégral et Alfred
 
 **Personnalisez le nom de votre assistant.** WallDock Pro peut afficher **A.L.F.R.E.D.**, J.A.R.V.I.S. ou un autre nom dans l'animation vocale. Le changement du nom affiché **ne modifie pas automatiquement le mot de réveil** : un mot personnalisé s'apprend directement sur la tablette (fonction expérimentale).
 
-**Nouveau thème Gotham élégant pour les réponses vocales.** Quand l'assistant parle, l'animation peut adopter un style noir anthracite et bleu acier : cadran minimaliste animé, pulsations discrètes et panneau de réponse épuré. Pour l'écoute et la réflexion, le style habituel est conservé. **Classique** reste le choix par défaut.
+**Nouveau thème Gotham élégant pendant toute la conversation.** Dès la 0.18.4, l'animation peut adopter un style noir anthracite et bleu acier pour **l'écoute** (barres réactives au microphone), **la réflexion** (balayage et points animés), **la réponse** (pulsations et panneau épuré) et **l'erreur** (signal discret). Le choix **Classique** reste disponible par défaut.
 
 **Réglages dans Home Assistant.** Via l'intégration ESPHome, le nom affiché de l'assistant, le nom du mot personnalisé et le choix **Classique / Gotham élégant** sont modifiables depuis HA. Les options de sélection du mot de réveil ont été stabilisées pour limiter les états inconnus. Si les nouvelles entités n'apparaissent pas, recharger l'intégration ESPHome de WallDock.
 
 | Version | Principales évolutions |
 |---|---|
-| **0.18.3** | Thème vocal Gotham élégant et choix du style sur tablette ou dans Home Assistant |
+| **0.18.4** | Gotham étendu à l'écoute, la réflexion, la réponse et les erreurs |
+| **0.18.3** | Introduction du thème Gotham pour les réponses vocales et réglage dans Home Assistant |
 | **0.18.2** | Synchronisation des noms assistant / mot personnalisé avec HA, correction des choix du mot de réveil |
 | **0.18.1** | Nom affiché de l'assistant personnalisable (ex. Alfred) |
 
-*English: Customizable assistant display name (e.g. Alfred), Home Assistant ESPHome settings for the assistant and custom wake word, plus the optional Gotham elegant speaking-only overlay. Classic remains the default. Training a custom wake word is a separate, local and experimental step.*
+*English: Customizable assistant display name (e.g. Alfred), Home Assistant ESPHome settings for the assistant and custom wake word, plus the optional Gotham elegant theme across listening, thinking, speaking and error states. Classic remains the default. Training a custom wake word is a separate, local and experimental step.*
 
 **Historique détaillé : [CHANGELOG.md](CHANGELOG.md).** Le téléchargement de l'APK dépend de sa présence dans [les versions publiées](https://github.com/psycho1807/WallDock-Pro-Releases/releases).
 
