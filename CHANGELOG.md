@@ -4,6 +4,15 @@ Ce dépôt public héberge les APK de WallDock Pro. Le code source de la version
 
 This public repository hosts WallDock Pro APKs. The Pro source code lives in a separate repository.
 
+## 0.18.4-pro — Gotham pendant toute la conversation / Full-conversation Gotham (18/11/2026)
+
+- L'overlay **Gotham élégant** est désormais utilisé pendant l'écoute, la réflexion, la réponse vocale et les erreurs.
+- Écoute : barres réactives au micro ; réflexion : balayage animé ; réponse : pulsations et panneau de texte ; erreur : signal lumineux discret.
+- L'option Classique conserve l'apparence d'origine. Choix du thème dans WallDock Pro ou Home Assistant ESPHome.
+- Aucun changement de la synthèse vocale ni du pipeline Assist.
+
+*Gotham elegant now applies to the entire conversation: listening (micro-reactive bars), thinking (animated scan), speaking and errors. Classic remains available.*
+
 ## 0.18.3-pro — Gotham élégant / Gotham elegant (18/11/2026)
 
 - Nouveau thème optionnel **Gotham élégant** : fond noir/anthracite, anneaux bleu acier plus fins, pulsations animées, réponse dans un panneau discret.
